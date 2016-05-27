@@ -15,7 +15,11 @@ public class principal1 {
 		t3.start();
 		t4.start();
 		//HAUT VAUT3 ;	
+
 		System.out.println("BONJOUR ,Je viens du branche MASTER   ");
+
+		 System.out.println("REBONJOUR , je viens de BRANCHE 1  " );
+
 		//HAUT VAUT4 ; 
 		
 	}
