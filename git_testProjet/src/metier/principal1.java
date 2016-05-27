@@ -15,7 +15,7 @@ public class principal1 {
 		t3.start();
 		t4.start();
 		//HAUT VAUT3 ;	
-		
+		System.out.println("Le nom du thread principal est 2 ");
 		//HAUT VAUT4 ; 
 		
 	}
